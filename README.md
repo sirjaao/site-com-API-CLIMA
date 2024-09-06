@@ -27,6 +27,8 @@ Clone o Repositório:
 bash
 Copiar código
 git clone https://github.com/sirjaao/site-com-API-CLIMA.git
+
+
 Depois vc vai em https://openweathermap.org/ crie uma conta e depois peguei a key da sua API e coloque no espaço vazio em apikey = ""
 Abra o Arquivo HTML: Abra o arquivo index.html em um navegador de sua escolha.
 
@@ -36,4 +38,5 @@ Contribuições
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encontrar algum problema, por favor, abra uma issue ou envie um pull request.
 
 Site para testar:
+
 https://site-com-api-clima.vercel.app/
