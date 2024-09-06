@@ -7,13 +7,17 @@ Este projeto é uma aplicação web que permite aos usuários consultar o clima 
 # Funcionalidades
 
 Entrada do Usuário: O usuário pode digitar o nome de qualquer país.
+
 Exibição de Dados Climáticos: Após a submissão do formulário, a aplicação exibe uma descrição do clima, além de detalhes como temperatura, umidade e velocidade do vento.
+
 Responsivo: A interface é responsiva e adequada para visualização em dispositivos móveis e desktops.
-Tecnologias Utilizadas
+
+# Tecnologias Utilizadas
 HTML/CSS: Estrutura e estilo da aplicação.
+
 JavaScript: Lógica para processar a entrada do usuário e exibir os resultados.
+
 API de Clima: Utilizada para obter dados climáticos reais (essa parte deve ser implementada conforme sua necessidade).
-Como Usar
 
 # Pagina quando entra no site
 ![image](https://github.com/user-attachments/assets/390fcdd2-1bd4-4c62-bce4-6ca458f10083)
@@ -21,7 +25,7 @@ Como Usar
 # Pagina quando coloca uma cidade/Estado/Pais
 ![image](https://github.com/user-attachments/assets/3f924116-2501-41b8-be70-192534f2d09f)
 
-
+# como usar
 # Clone o Repositório:
 
 bash
