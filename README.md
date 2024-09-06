@@ -28,7 +28,7 @@ API de Imagens: Utilizado para obter imagem do pais ao fundo
 ![image](https://github.com/user-attachments/assets/3f924116-2501-41b8-be70-192534f2d09f)
 
 # como usar
-# Clone o Repositório:
+Clone o Repositório:
 
 bash
 
