@@ -19,6 +19,8 @@ JavaScript: Lógica para processar a entrada do usuário e exibir os resultados.
 
 API de Clima: Utilizada para obter dados climáticos reais (essa parte deve ser implementada conforme sua necessidade).
 
+API de Imagens: Utilizado para obter imagem do pais ao fundo
+
 # Pagina quando entra no site
 ![image](https://github.com/user-attachments/assets/390fcdd2-1bd4-4c62-bce4-6ca458f10083)
 
