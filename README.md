@@ -37,7 +37,7 @@ Copiar código
 git clone https://github.com/sirjaao/site-com-API-CLIMA.git
 
 
-Depois vc vai em https://openweathermap.org/ e no https://unsplash.com/documentation#creating-a-developer-account crie uma conta e depois peguei a key da sua API e coloque no espaço vazio em apikey = ""
+Depois vc vai em https://openweathermap.org/ e no https://unsplash.com/documentation#creating-a-developer-account crie uma conta e depois pegue a key da sua API e coloque no espaço vazio em apikey = ""
 e unsplashAccessKey: ""
 
 Abra o Arquivo HTML: Abra o arquivo index.html em um navegador de sua escolha.
