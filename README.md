@@ -19,7 +19,7 @@ Pagina quando entra no site
 ![image](https://github.com/user-attachments/assets/390fcdd2-1bd4-4c62-bce4-6ca458f10083)
 
 Pagina quando coloca uma cidade/Estado/Pais
-
+![image](https://github.com/user-attachments/assets/3f924116-2501-41b8-be70-192534f2d09f)
 
 
 Clone o Repositório:
@@ -34,3 +34,6 @@ Digite o Nome do País: No formulário, insira o nome do país desejado e clique
 
 Contribuições
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encontrar algum problema, por favor, abra uma issue ou envie um pull request.
+
+Site para testar:
+https://site-com-api-clima.vercel.app/
