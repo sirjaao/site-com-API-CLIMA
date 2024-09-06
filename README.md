@@ -25,16 +25,21 @@ Pagina quando coloca uma cidade/Estado/Pais
 Clone o Repositório:
 
 bash
+
 Copiar código
+
 git clone https://github.com/sirjaao/site-com-API-CLIMA.git
 
 
-Depois vc vai em https://openweathermap.org/ crie uma conta e depois peguei a key da sua API e coloque no espaço vazio em apikey = ""
+Depois vc vai em https://openweathermap.org/ e no https://unsplash.com/documentation#creating-a-developer-account crie uma conta e depois peguei a key da sua API e coloque no espaço vazio em apikey = ""
+e unsplashAccessKey: ""
+
 Abra o Arquivo HTML: Abra o arquivo index.html em um navegador de sua escolha.
 
 Digite o Nome do País: No formulário, insira o nome do país desejado e clique no botão de consultar para ver os resultados.
 
 Contribuições
+
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encontrar algum problema, por favor, abra uma issue ou envie um pull request.
 
 Site para testar:
