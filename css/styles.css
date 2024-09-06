@@ -11,20 +11,31 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;  
 }
 
 .hide {
     display: none;
 }
-
 .container {
     background-color: #5c54ed;
     box-shadow: rgba(0, 0, 0, 0.34) 0px 3px 8px;
-    padding: 2rem;
+    padding: 4rem; /* Aumenta o padding para deixar o container maior */
     color: #fdfdfd;
-    border-radius: 1rem;
+    border-radius: 1.5rem; /* Aumenta o border-radius para combinar com o novo tamanho */
     text-align: center;
+    width: 100%; /* Define uma largura maior para o container */
+    max-width: 400px; /* Define um limite máximo para a largura */
+    margin: 0 auto; /* Centraliza o container horizontalmente */
 }
+
+.container h3, .container h2, .container span, .container input, .container button {
+    font-size: 1.5rem; /* Ajusta o tamanho da fonte dos elementos dentro do container */
+}
+
 
 /* form */
 .form h3 {
